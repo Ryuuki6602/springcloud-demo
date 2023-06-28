@@ -8,19 +8,16 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>nacos-consumer</artifactId>
+    <artifactId>nacos-config</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>nacos-consumer</name>
-    <description>nacos-consumer</description>
+    <name>nacos-config</name>
+    <description>nacos-config</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
 
+
     <dependencies>
-        <dependency>
-            <groupId>com.alibaba.cloud</groupId>
-            <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
-        </dependency>
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
