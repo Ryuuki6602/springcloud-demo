@@ -10,7 +10,7 @@
 
 基于nacos的服务的远程调用与负载均衡
 
-# Commit 0.3(current)
+# Commit 0.3
 
 nacos集群部署（3台或以上）: 
 
